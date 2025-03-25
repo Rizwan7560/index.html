@@ -2,11 +2,9 @@
 
 
 
-
+20/02/2025 certification presentation
 
 Introduction to Website Development Using HTML and CSS​
-
-This document provides an overview of foundational concepts in website development, focusing on HTML and CSS.​
 
 Introduction to HTML and CSS
 
