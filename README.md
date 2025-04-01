@@ -1,6 +1,6 @@
 # 📌 Web Development Journey
 
-## 🚀 Progress Update (As of 18/03/2025)
+## 🚀 Progress Update (As of 18/03/2025)-(01/04/2025)
 
 - 📌 **Course Progress:**
   - Previously completed **20%** of the course.
