@@ -1,35 +1,67 @@
-18/03/2025. Table created using colspan and rowspan. 
+# 📌 Web Development Journey
 
+## 🚀 Progress Update (As of 18/03/2025)
 
+- 📌 **Course Progress:**
+  - Previously completed **20%** of the course.
+  - New progress: **Modules 2 & 3** completed (~40% done).
+  - **Total Study Time:** 4 additional hours.
+- 📌 **Key Focus:** Strengthening HTML structure & introducing CSS.
+- 📌 **Additional Work:**
+  - Created a **PPT presentation** for my **portfolio website**.
+  - Created a **PPT progress report** for my **Web Technologies course project**.
 
-20/02/2025 certification presentation
+---
 
-Introduction to Website Development Using HTML and CSS​
+## 📜 Course Overview
 
-Introduction to HTML and CSS
+### **Introduction to Website Development Using HTML & CSS**
 
-HTML (Hypertext Markup Language) structures the content of web pages, while CSS (Cascading Style Sheets) styles and enhances their visual presentation. Together, they form the backbone of web development.​
+HTML (Hypertext Markup Language) structures web content, while CSS (Cascading Style Sheets) styles and enhances the visual presentation. Together, they form the backbone of web development.
 
-Creating Your First Web Page
-​
-HTML Structure:
-Declare the document type and set up the <html>, <head>, and <body> sections.​
-Use HTML elements like headings (<h1> to <h6>), paragraphs (<p>), and links (<a href="#">).​
-Styling with CSS:
-Apply styles using selectors, properties, and values.​
-Incorporate CSS directly within the HTML file or link to an external stylesheet.​
-Understanding HTML Elements and Attributes
+### **Key Learnings & Achievements**
 
-HTML elements define the structure and content of web pages. Attributes provide additional information about elements, such as the href attribute in links or the src attribute in images.​
+| **Module** | **Topic** | **Key Takeaways** |
+|-----------|----------|------------------|
+| **Module 1** | Introduction to HTML & CSS | Basics of structuring web pages and styling elements. |
+| **Module 2** | HTML Elements & Attributes | Deep dive into HTML structure, semantic elements, and page layout. |
+| **Module 3** | CSS Fundamentals | Styling text, backgrounds, Box Model, and Flexbox. |
+| **Next Steps** | Advanced CSS & Responsive Design | Enhancing layouts, media queries, and project implementation. |
 
-Styling with CSS
+---
 
-CSS allows for the customization of web page appearance, including:​
+## 📌 Progress Table
 
-Setting fonts, colors, and backgrounds.​
-Alison
-Adjusting layout through margins, padding, and positioning.​
-Alison
-Creating responsive designs that adapt to various screen sizes.​
-Conclusion
+<table>
+  <tr>
+    <th colspan="2">📈 **Progress Summary**</th>
+  </tr>
+  <tr>
+    <td rowspan="3">📝 **HTML & CSS Learning**</td>
+    <td>✅ Improved understanding of HTML structure & attributes.</td>
+  </tr>
+  <tr>
+    <td>✅ Hands-on experience with styling using CSS.</td>
+  </tr>
+  <tr>
+    <td>✅ Implemented Flexbox for layout improvements.</td>
+  </tr>
+  <tr>
+    <td rowspan="2">📊 **PPT Creations**</td>
+    <td>✅ Created portfolio website PPT.</td>
+  </tr>
+  <tr>
+    <td>✅ Created Web Technologies progress report PPT.</td>
+  </tr>
+</table>
+
+---
+
+## 🎯 Next Steps
+
+- 📌 **Upcoming Topics:** Advanced CSS, Layout Techniques, Responsive Design.
+- 📌 **Next Milestone:** Achieve **60% course completion**.
+- 📌 **Goal:** Build a small **website project** to apply knowledge.
+
+Stay tuned for more updates! 🚀
 
