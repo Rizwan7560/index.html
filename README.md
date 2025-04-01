@@ -63,5 +63,5 @@ HTML (Hypertext Markup Language) structures web content, while CSS (Cascading St
 - 📌 **Next Milestone:** Achieve **60% course completion**.
 - 📌 **Goal:** Build a small **website project** to apply knowledge.
 
-Stay tuned for more updates! 🚀
+
 
