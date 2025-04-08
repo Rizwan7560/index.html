@@ -62,6 +62,9 @@ HTML (Hypertext Markup Language) structures web content, while CSS (Cascading St
 - 📌 **Upcoming Topics:** Advanced CSS, Layout Techniques, Responsive Design.
 - 📌 **Next Milestone:** Achieve **60% course completion**.
 - 📌 **Goal:** Build a small **website project** to apply knowledge.
+- so we will start our first assestment for the website on the coming week
+- (07/04/2025) till now we have 70% our course completed
+- and created 2 progress reeports for our mini project and 
 
 
 
