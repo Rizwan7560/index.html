@@ -71,7 +71,7 @@ code:
 </body>
 </html>
 
-3)	Create a Form in HTML with two fields, minimum and maximum, write JavaScript to validate that only numeric value is entered in both, and the value entered in minimum is less than the value entered in maximum. 
+3) Create a Form in HTML with two fields, minimum and maximum, write JavaScript to validate that only numeric value is entered in both, and the value entered in minimum is less than the value entered in maximum. 
 
 code:
 
