@@ -64,7 +64,13 @@ HTML (Hypertext Markup Language) structures web content, while CSS (Cascading St
 - 📌 **Goal:** Build a small **website project** to apply knowledge.
 - so we will start our first assestment for the website on the coming week
 - (07/04/2025) till now we have 70% our course completed
-- and created 2 progress reeports for our mini project and 
+- and created 3 progress reeports for our mini project
+
+- ##  task list () from assignment 3
+1) Write a JavaScript that shows how a variable's type can be changed on-the-fly.
+2) Write a JavaScript that demonstrates the use of +=,-=,*=,/= operators.
+3) Create a Form in HTML with two fields, minimum and maximum, write JavaScript to validate that only numeric value is 
+   entered in both, and the value entered in minimum is less than the value entered in maximum
 
 
 
