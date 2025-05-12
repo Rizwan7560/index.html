@@ -1,0 +1,120 @@
+1)	Write a JavaScript that shows how a variable’s type can be changed on-the-fly. 
+code: 
+<!DOCTYPE html>
+<html>
+<body>
+  <h2>Dynamic Variable Type Demo</h2>
+  <p id="output"></p>
+
+  <script>
+    let dynamicVar = "I'm a string";  // Starts as a string
+    let output = document.getElementById("output");
+
+    output.innerHTML += `Initial value: <strong>${dynamicVar}</strong> (Type: ${typeof dynamicVar})<br>`;
+
+    dynamicVar = 42;  // Now a number
+    output.innerHTML += `Changed to number: <strong>${dynamicVar}</strong> (Type: ${typeof dynamicVar})<br>`;
+
+    dynamicVar = true;  // Now a boolean
+    output.innerHTML += `Changed to boolean: <strong>${dynamicVar}</strong> (Type: ${typeof dynamicVar})<br>`;
+
+    dynamicVar = { name: "Alice", age: 30 };  // Now an object
+    output.innerHTML += `Changed to object: <strong>${JSON.stringify(dynamicVar)}</strong> (Type: ${typeof dynamicVar})<br>`;
+
+    dynamicVar = [1, 2, 3];  // Now an array (but 'typeof' says object)
+    output.innerHTML += `Changed to array: <strong>${JSON.stringify(dynamicVar)}</strong> (Type: ${typeof dynamicVar})<br>`;
+
+    dynamicVar = null;  // Now null (but 'typeof' says object)
+    output.innerHTML += `Changed to null: <strong>${dynamicVar}</strong> (Type: ${typeof dynamicVar})<br>`;
+
+    dynamicVar = undefined;  // Now undefined
+    output.innerHTML += `Changed to undefined: <strong>${dynamicVar}</strong> (Type: ${typeof dynamicVar})<br>`;
+
+    dynamicVar = "Back to string";  // Back to string
+    output.innerHTML += `Final value: <strong>${dynamicVar}</strong> (Type: ${typeof dynamicVar})<br>`;
+  </script>
+</body>
+</html>
+
+ 2)	Write a JavaScript that demonstrates the use of +=,-=,*=,/= operators.
+ code:
+
+<!DOCTYPE html>
+<html>
+<body>
+  <h2>Compound Operators Demo</h2>
+  <p id="result"></p>
+
+  <script>
+    let num = 10;
+    let result = document.getElementById("result");
+
+    result.innerHTML += `Initial value: <strong>${num}</strong><br>`;
+
+    num += 5;  // num = num + 5 → 15
+    result.innerHTML += `After += 5: <strong>${num}</strong><br>`;
+
+    num -= 3;  // num = num - 3 → 12
+    result.innerHTML += `After -= 3: <strong>${num}</strong><br>`;
+
+    num *= 2;  // num = num * 2 → 24
+    result.innerHTML += `After *= 2: <strong>${num}</strong><br>`;
+
+    num /= 4;  // num = num / 4 → 6
+    result.innerHTML += `After /= 4: <strong>${num}</strong><br>`;
+
+    // Bonus: String concatenation with +=
+    let text = "Hello";
+    text += " World!";
+    result.innerHTML += `String += example: <strong>${text}</strong><br>`;
+  </script>
+</body>
+</html>
+
+3)	Create a Form in HTML with two fields, minimum and maximum, write JavaScript to validate that only numeric value is entered in both, and the value entered in minimum is less than the value entered in maximum. 
+
+code:
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Number Validation Form</title>
+  <style>
+    .error { color: red; }
+  </style>
+</head>
+<body>
+  <h2>Min-Max Number Validator</h2>
+  <form id="numForm">
+    <label>Minimum: <input type="text" id="min" required></label><br>
+    <label>Maximum: <input type="text" id="max" required></label><br>
+    <button type="submit">Validate</button>
+  </form>
+  <p id="errorMsg" class="error"></p>
+
+  <script>
+    document.getElementById("numForm").addEventListener("submit", function(e) {
+      e.preventDefault();
+      const min = document.getElementById("min").value;
+      const max = document.getElementById("max").value;
+      const errorMsg = document.getElementById("errorMsg");
+
+      // Check if inputs are numbers
+      if (isNaN(min) || isNaN(max)) {
+        errorMsg.textContent = "Error: Both fields must be numbers!";
+        return;
+      }
+
+      // Check if Min < Max
+      if (parseFloat(min) >= parseFloat(max)) {
+        errorMsg.textContent = "Error: Minimum must be less than Maximum!";
+      } else {
+        errorMsg.textContent = "Validation passed! ✅";
+        errorMsg.style.color = "green";
+      }
+    });
+  </script>
+</body>
+</html>
+
+
