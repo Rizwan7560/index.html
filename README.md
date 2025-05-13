@@ -72,5 +72,11 @@ HTML (Hypertext Markup Language) structures web content, while CSS (Cascading St
 3) Create a Form in HTML with two fields, minimum and maximum, write JavaScript to validate that only numeric value is 
    entered in both, and the value entered in minimum is less than the value entered in maximum
 
+#### CREATED NEW REPOSITORY FOR TASK LIST FROM ASSIGNMENT 5 
+1) DID ALL THE TASK ALL THE WAY FROM 1-20
+2) ATTACHED ALL THE TASK CODE AND CONSOLE INSIDE THE FILE AS I DID ALL THE WORKS ONSIDE W3SCHOOL
+3) SO CONSOLE(HERE I PASTED ALL THE CODES/FILES SNIPPETS) S WE PASTE /RUN IN IN ANY BROWSER WE GET THE DIRECT RESULTS OIF THE CODE !
 
+## 🎯 Next Steps
 
+- 📌 **Goal:**COMPLETING **COURSE WORK project**and presenting the video on google drive links before 20th of this month!
