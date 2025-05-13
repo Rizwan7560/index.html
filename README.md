@@ -1,15 +1,17 @@
 # 📌 Web Development Journey
 
-## 🚀 Progress Update (As of 18/03/2025)-(01/04/2025)
+## 🚀 Progress Update (As of 18/03/2025)-(13/05/2025)
 
 - 📌 **Course Progress:**
-  - Previously completed **20%** of the course.
-  - New progress: **Modules 2 & 3** completed (~40% done).
-  - **Total Study Time:** 4 additional hours.
+  - Previously completed **80%** of the course.
+  - New progress: **Modules 4 & 5** completed (~40% done).
+  - **Total Study Time:** 12 additional hours.
 - 📌 **Key Focus:** Strengthening HTML structure & introducing CSS.
 - 📌 **Additional Work:**
   - Created a **PPT presentation** for my **portfolio website**.
   - Created a **PPT progress report** for my **Web Technologies course project**.
+  - worked on **tasklist5** from ** assignment 5**.
+
 
 ---
 
@@ -26,7 +28,8 @@ HTML (Hypertext Markup Language) structures web content, while CSS (Cascading St
 | **Module 1** | Introduction to HTML & CSS | Basics of structuring web pages and styling elements. |
 | **Module 2** | HTML Elements & Attributes | Deep dive into HTML structure, semantic elements, and page layout. |
 | **Module 3** | CSS Fundamentals | Styling text, backgrounds, Box Model, and Flexbox. |
-| **Next Steps** | Advanced CSS & Responsive Design | Enhancing layouts, media queries, and project implementation. |
+| **module 4** | Advanced CSS & Responsive Design | Enhancing layouts, media queries, and project implementation. |
+
 
 ---
 
